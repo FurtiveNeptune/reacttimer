@@ -1,0 +1,7 @@
+{
+  "name": "React Timer App",
+  "description": "Simple react test app",
+  "repository": "https://github.com/FurtiveNeptune/reacttimer",
+  "logo": "",
+  "keywords": ["node", "express", "static"]
+}
